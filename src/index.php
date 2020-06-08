@@ -8,4 +8,8 @@ class Index
     {
         return "Hi! Hello Composer from Own Package";
     }
+    public function bye()
+    {
+        return "Bye from Own Package";
+    }
 }
