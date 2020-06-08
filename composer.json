@@ -1,0 +1,17 @@
+{
+    "name": "balakarthikeyan/hello-composer",
+    "description": "A simple hello world composer package",
+    "type": "library",
+    "require": {},
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Balakarthikeyan",
+            "email": "balakarthikeyan07@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {"balakarthikeyan\\HelloComposer\\": "src/"}
+    }
+}
