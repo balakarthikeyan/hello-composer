@@ -10,7 +10,6 @@
             "email": "balakarthikeyan07@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
     "version" : "1.0",
     "autoload": {
         "psr-4": {"balakarthikeyan\\HelloComposer\\": "src/"}
